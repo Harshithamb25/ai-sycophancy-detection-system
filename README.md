@@ -223,6 +223,7 @@ It is a strong **Data Science + AI Alignment** project suitable for academic and
 ## 👩‍💻 Author
 
 Harshitha
+Rathi Varshini
 
 ---
 
